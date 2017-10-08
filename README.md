@@ -1,1 +1,1 @@
-github
+Machine Learning Assignments & Projects
