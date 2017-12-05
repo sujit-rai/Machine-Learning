@@ -4,7 +4,6 @@ SUJIT RAI			2017CSM1006
 
 -------------------Running the code-------------------------
 ************************************************************
-Extract the folder 2017CSM.zip in a folder and run as below
 run all the programs sequentially : ~$ make
 
 To run the individual scripts of linear regression : ~$ python file_name.py
