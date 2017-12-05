@@ -1,0 +1,3 @@
+rmspropccn.m contains the code for CNN with optimizer as RMSProp it uses sample.mat as the sample dataset.
+
+vectorizedcnn.m contains the code for vectorized CNN with optimizer as RMSProp it uses sample.mat as the sample dataset.
