@@ -1,0 +1,2 @@
+print >> open('q1output.txt','w'),"".join(["(1,0,0),"+",".join(line.split(',')[1:]) if line.split(",")[0] == 'F' else ("(0,1,0),"+",".join(line.split(',')[1:]) if line.split(",")[0] == 'I' else "(0,0,1),"+",".join(line.split(',')[1:])) for line in open('linregdata', 'rU')])
+print "output printed in file q1output.txt"
